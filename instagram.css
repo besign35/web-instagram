@@ -1,0 +1,88 @@
+/* unvisited link */
+a:link {
+    color: black;
+    text-decoration: none;
+    padding : 0px 0px 0px 5px;
+    margin : 0px 0px 0px -5px;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: black;
+    text-decoration: none;
+    padding : 0px 0px 0px 5px;
+    margin : 0px 0px 0px -5px;
+
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black;
+    text-decoration: none;
+    padding : 0px 0px 0px 5px;
+    margin : 0px 0px 0px -5px;
+
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+    text-decoration: none;
+    padding : 0px 0px 0px 5px;
+    margin : 0px 0px 0px -5px;
+
+  }
+
+  p {
+      margin : 0px 0px 4px 0px;
+      font-size : 14px;
+  }
+
+.topbar {
+    width : 368px;
+    height :44px;
+    padding : 0px 16px;
+    position: 0px;
+}
+
+.story {
+    width :400px;
+    height :82px;
+    background : #fafafa;
+    border-bottom : 1px solid #e6e6e6;
+    padding : 10px 0px;
+    position: 0px;
+}
+
+.user {
+    width :344px;
+    padding : 16px 40px 16px 16px;
+    display: flex;
+    align-items: center;
+    font-size : 14px;
+}
+
+.username {
+    margin : 0px 0px 0px 12px;
+}
+
+.feed {
+    width :384px;
+    padding : 0px 16px 0px 0px;
+}
+
+.feedicon {
+    padding : 0px 0px 0px 16px
+}
+
+.communication {
+    width : 368px;
+    padding : 0px 16px;
+    font-size : 14px;
+
+}
+
+.time {
+    color : lightgray ;
+    font-size : 10px
+}
